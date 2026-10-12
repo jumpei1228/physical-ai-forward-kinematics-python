@@ -1,5 +1,7 @@
 # 順運動学をPythonで実装する｜ロボットアームの手先位置を計算する
 
+[![run](https://github.com/jumpei1228/physical-ai-forward-kinematics-python/actions/workflows/run.yml/badge.svg)](https://github.com/jumpei1228/physical-ai-forward-kinematics-python/actions/workflows/run.yml)
+
 ロボットアームの「関節の角度」から「手先の位置」を求める順運動学を、Pythonで手を動かして実装。2関節アームの座標計算から、なぜ三角関数で先端位置がわかるのかを、動くコードで理解します。
 
 > 📖 このコードの詳しい解説（理論・図解つき）は元記事をどうぞ:
